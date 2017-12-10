@@ -1,0 +1,21 @@
+{
+  "name": "api-app",
+  "version": "1.0.0",
+  "description": "Api para consulta do aplicativo ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "MONGODB",
+    "NODE"
+  ],
+  "author": "vacathon",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.6"
+  }
+}
